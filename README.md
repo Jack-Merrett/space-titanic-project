@@ -1,4 +1,5 @@
 # Space Titanic Project
+
 ## Description
 
 The "Space Titanic" project is a data analysis and machine learning project that aims to analyze the data from the fictional space cruise ship "Space Titanic" and build a predictive model to determine the likelihood of survival for passengers in case of any space accidents.
